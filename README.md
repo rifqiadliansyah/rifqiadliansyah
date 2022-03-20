@@ -8,3 +8,4 @@
   Instagram - https://www.instagram.com/r.adlians/</br>
 - 😄 Pronouns: He/his
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rifqiadliansyah&theme=chartreuse-dark&show_icons=true)
