@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Computer Science Student at University of Lampung<br>🌱 I’m currently learning Web development (Laravel) & Cyber Security<br>👯 I’m looking to collaborate on Android project / Web Project<br>📫 How to reach me:<br>Linkedin - https://www.linkedin.com/in/rifqi-adliansyah-48246a1b6<br>Instagram - https://www.instagram.com/r.adlians/<br>😄 Pronouns: He/his
+🔭 I’m currently Computer Science Student at University of Lampung<br>🌱 I’m currently learning Web development (Laravel) & Cyber Security<br>👯 I’m looking to collaborate on Android project / Web Project<br>📫 How to reach me:<br>Linkedin - https://www.linkedin.com/in/rifqi-adliansyah-48246a1b6<br>Instagram - https://www.instagram.com/r.adlians/<br>Gitlab - https://gitlab.com/rifqiadliansyahx<br>😄 Pronouns: He/his
 
 
 ## 🌐 Socials:
